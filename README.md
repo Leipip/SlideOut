@@ -16,7 +16,7 @@ This project is licensed under the [MIT License](https://github.com/leightonoff/
 
 ## Screenshots
 <div>
-    <img width="400px" height="240px" hspace="15" src=".PNG">
+    <img width="400px" height="240px" hspace="15" src="https://lh3.googleusercontent.com/arydV3H6AocXcPAh1NHk4U1hLQ2ysG7D4PNaXBeY9iXuQcND8MMs5DRhJebHsBNthBP7=s85">
     <img width="400px" height="240px" hspace="15" src=".PNG">
 </div>
 
