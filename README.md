@@ -23,11 +23,8 @@ The assets for this game are also available for download:
 * [Sound Effects](https://github.com/mingli1/Unlucky/files/2300530/sfx.zip) (all sfx in the game mostly in `.ogg` format)
 
 ## Credits
-* Programming - done by me using Java 8 and the [LibGDX library](https://libgdx.badlogicgames.com/)
-* Artwork - done by me using [Paint.net](https://www.getpaint.net/) and textures packed using [Gdx Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui)
-* Music - done by me using [Bosca Cecilo](https://boscaceoil.net/)
-* Sound Effects - all sound effects are under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) from [Freesound](https://freesound.org/) and edited by me using [Audacity](https://www.audacityteam.org/)
-
+* Programming - by Leighton Cotterell using Java 8 and the [LibGDX library](https://libgdx.badlogicgames.com/)
+* Sprites -     by Leighton Cotterell using Adobe Illustrator
 ## License
 This project is licensed under the [MIT License](https://github.com/mingli1/Unlucky/blob/master/LICENSE).
 
