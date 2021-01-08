@@ -1,7 +1,7 @@
 # SlideOut
 SlideOut is a LibGDX Android mobile game where the user will be challenged level after level to slide their finger out of a rotaing circle, with each victory following with a speed up in rotation of the partial circle.
 <div>
-    <img width="400px" height="240px" hspace="15" src="https://im2.ezgif.com/tmp/ezgif-2-4c38fa46bf08.gif">
+    <img width="400px" height="240px" hspace="15" src="https://github.com/leightonoff/SlideOut/blob/master/android/assets/ezgif.com-gif-maker%20(1).gif">
 </div>
 
 ## About
