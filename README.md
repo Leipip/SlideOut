@@ -1,15 +1,13 @@
 # SlideOut
-SlideOut is a LibGDX Android mobile game where the user will be challenged level after level to slide their finger out of a rotaing circle e theme is RNG. Everything from attacks in battle to item enchanting to movement is based on RNG. 
+SlideOut is a LibGDX Android mobile game where the user will be challenged level after level to slide their finger out of a rotaing circle, with each victory following with a speed up in rotation of the partial circle.
 <div>
-    <img width="400px" height="240px" hspace="15" src="https://user-images.githubusercontent.com/29984767/44676899-856d7600-aa02-11e8-82ca-897e3ca45092.gif">
-    <img width="400px" height="240px" hspace="15" src="https://user-images.githubusercontent.com/29984767/44678123-9e2b5b00-aa05-11e8-93ab-d9d0c693ddfa.gif">
+    <img width="400px" height="240px" hspace="15" src=".gif">
+    <img width="400px" height="240px" hspace="15" src=".gif">
 </div>
 
 ## About
 
-The player ventures and battles monsters in maps with various themes. Currently there are three available worlds all with 10+ levels in each world. In these maps, the player will have to defeat monsters and find a star tile to complete the level. Monsters may drop items that can improve the player's strength. These items may be sold in the shop for gold or enchanted to increase their power. There are currently 100+ items dropped by monsters and sold in the shop.
-
-The battle system is based on turn-based mechanics. The player is given four randomly generated moves with each color corresponding to a different type of move. The player also has access to special moves that they can choose in the menu. Special moves give bonus effects to the player's attacks or affects the enemy. The player also has an option to run from the battle at a very low chance of success.
+The player will
 
 ## Downloads
 Releases for Desktop are found on the [releases page](https://github.com/mingli1/Unlucky/releases). It is in a runnable .jar format so you must have JRE installed. 
