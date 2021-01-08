@@ -24,5 +24,7 @@ This project is licensed under the [MIT License](https://github.com/leightonoff/
 ## Screenshots
 <div>
     <img width="400px" height="240px" hspace="15" src="https://raw.githubusercontent.com/leightonoff/SlideOut/master/android/assets/game_screenshot.jpg">
+        <img width="400px" height="240px" hspace="15" src="https://raw.githubusercontent.com/leightonoff/SlideOut/master/android/assets/game_screenshot.jpg">
+
 </div>
 
