@@ -10,8 +10,10 @@ The player to start will place their finger in the area of the middle area of th
 
 ## Installion
 
-Clone the project 
-Open with andriod studio and run on either virtual device andriod device or physical device.
+- Clone the project. 
+- Open with andriod studio.
+- Run Sync with file system.
+ - Then build and run the project (using a virtual andriod device or physical device).
 
 ## Credits
 * Programming - by Leighton Cotterell using Java 8 and the [LibGDX library](https://libgdx.badlogicgames.com/)
