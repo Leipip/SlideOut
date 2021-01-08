@@ -13,7 +13,7 @@ The player will
 * Programming - by Leighton Cotterell using Java 8 and the [LibGDX library](https://libgdx.badlogicgames.com/)
 * Sprites -     by Leighton Cotterell using Adobe Illustrator
 ## License
-This project is licensed under the [MIT License](https://github.com/mingli1/Unlucky/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/leightonoff/SlideOut/blob/master/LICENSE).
 
 ## Screenshots
 <div>
