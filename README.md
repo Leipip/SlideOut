@@ -9,7 +9,7 @@ Currently still in development.
 
 The player to start will place their finger in the area of the middle area of the ring identified by the colored red area and that will start the circle roatating and your finger as shown by the yellow marking will need to move through the gap in the rotating ring to move on to the next level (color markings for the area of touching and player finger movement tracking will be removed in the acutal game). 
 
-## Installion
+## Installation
 
 - Clone the project. 
 - Open with andriod studio.
